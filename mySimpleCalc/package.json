@@ -1,0 +1,18 @@
+{
+  "name": "inezagloriasimplecalc",
+  "version": "1.0.0",
+  "description": "this is a simple calculator which carries out addition and multiplication of numbers on the server.",
+  "main": "multiplication.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "inezagloria-catexam"
+  },
+  "author": "ineza gloria",
+  "license": "ISC",
+  "dependencies": {
+    "inezagloriasimplecalc": "^1.0.0"
+  }
+}
